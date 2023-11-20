@@ -1,0 +1,15 @@
+G:\Meu Drive\4. CURSOS\Programador Full-Stack\10. Codificação Back-End\Atividade - Situação 2\Atividade\bin\Debug\net6.0\Atividade.exe
+G:\Meu Drive\4. CURSOS\Programador Full-Stack\10. Codificação Back-End\Atividade - Situação 2\Atividade\bin\Debug\net6.0\Atividade.deps.json
+G:\Meu Drive\4. CURSOS\Programador Full-Stack\10. Codificação Back-End\Atividade - Situação 2\Atividade\bin\Debug\net6.0\Atividade.runtimeconfig.json
+G:\Meu Drive\4. CURSOS\Programador Full-Stack\10. Codificação Back-End\Atividade - Situação 2\Atividade\bin\Debug\net6.0\Atividade.dll
+G:\Meu Drive\4. CURSOS\Programador Full-Stack\10. Codificação Back-End\Atividade - Situação 2\Atividade\bin\Debug\net6.0\Atividade.pdb
+G:\Meu Drive\4. CURSOS\Programador Full-Stack\10. Codificação Back-End\Atividade - Situação 2\Atividade\obj\Debug\net6.0\Atividade.csproj.AssemblyReference.cache
+G:\Meu Drive\4. CURSOS\Programador Full-Stack\10. Codificação Back-End\Atividade - Situação 2\Atividade\obj\Debug\net6.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\4. CURSOS\Programador Full-Stack\10. Codificação Back-End\Atividade - Situação 2\Atividade\obj\Debug\net6.0\Atividade.AssemblyInfoInputs.cache
+G:\Meu Drive\4. CURSOS\Programador Full-Stack\10. Codificação Back-End\Atividade - Situação 2\Atividade\obj\Debug\net6.0\Atividade.AssemblyInfo.cs
+G:\Meu Drive\4. CURSOS\Programador Full-Stack\10. Codificação Back-End\Atividade - Situação 2\Atividade\obj\Debug\net6.0\Atividade.csproj.CoreCompileInputs.cache
+G:\Meu Drive\4. CURSOS\Programador Full-Stack\10. Codificação Back-End\Atividade - Situação 2\Atividade\obj\Debug\net6.0\Atividade.dll
+G:\Meu Drive\4. CURSOS\Programador Full-Stack\10. Codificação Back-End\Atividade - Situação 2\Atividade\obj\Debug\net6.0\refint\Atividade.dll
+G:\Meu Drive\4. CURSOS\Programador Full-Stack\10. Codificação Back-End\Atividade - Situação 2\Atividade\obj\Debug\net6.0\Atividade.pdb
+G:\Meu Drive\4. CURSOS\Programador Full-Stack\10. Codificação Back-End\Atividade - Situação 2\Atividade\obj\Debug\net6.0\Atividade.genruntimeconfig.cache
+G:\Meu Drive\4. CURSOS\Programador Full-Stack\10. Codificação Back-End\Atividade - Situação 2\Atividade\obj\Debug\net6.0\ref\Atividade.dll
